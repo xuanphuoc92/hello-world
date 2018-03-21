@@ -1,10 +1,7 @@
 # hello-world
 
 OK here is the information from the branch
-
 Write here and there
-
-Written from branch
 
 Written from Master
 
